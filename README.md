@@ -3,7 +3,7 @@ Testing my github demo process
 
 Doing a run through of the presentation on Github I'll be doing
 
-1. Install github cli
+1. Install git
 2. create repo
 3. clone repo
 4. create branch
