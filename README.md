@@ -7,9 +7,8 @@ Doing a run through of the presentation on Github I'll be doing
 2. create repo
 3. clone repo
 4. create branch
-5. set upstream
-6. add changes
-7. commit changes
-8. push to remote
-9. pull request
+5. add changes
+6. commit changes
+7. push to remote
+8. pull request
 
